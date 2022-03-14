@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\Users\harsh\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for stm32dev.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/01/22
+Time:       22:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment             Description                                                                                                            Designator Footprint                                  Layer    Rotation 
+3937.008      3070.866      STM32L151C8T6A      "MCU 32-bit ARM Cortex M3 RISC 64KB Flash 2.5V/3.3V 48-Pin LQFP Tray"                                                  U3         QFP50P900X900X160-48N                      TopLayer 0        
+3444.882      3070.866      16MHz               "Crystals 16MHz 20pF 50ppm -10C +70C"                                                                                  Y1         ECS_Inc._ECS-160-20-3X-TR_0                TopLayer 270      
+4379.921      2692.913      IIS328DQ            "High Performance Low power 3 axis accelerometer for industrial applications"                                          ACC        QFN-24_4X4MM_STM                           TopLayer 0        
+5110.236      3430.118      82400102            "TVS Diode Array WE-TVS 2-Ch+VDD 5V SOT23"                                                                             U2         SOT23_6L                                   TopLayer 180      
+4762.402      3056.103      ZLDO1117G33TA       "LDO Regulator Pos 3.3V 1A 4-Pin(3+Tab) SOT-223 T/R / IC REG LDO 3.3V 1A SOT223"                                       U1         Diodes_SOT223_IPC_A                        TopLayer 180      
+3503.937      2637.795      PTS645SM43SMTR92LFS "SWITCH TACTILE SPST-NO 0.05A 12V"                                                                                     NRST       C&K_0_MFG_-_duplicate                      TopLayer 180      
+3366.142      3307.086      RMCF0603FT1K50      "Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                         R8         0603R_-_HD                                 TopLayer 180      
+3868.169      3385.827      RNCF0603BTE10K0     "RES 10K OHM 0.1% 1/10W 0603"                                                                                          R7         0603R_-_HD                                 TopLayer 0        
+3956.692      3366.142      RMCF0603FT2K20      "Res Thick Film 0603 2.2K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                         R6         0603R_-_HD                                 TopLayer 270      
+4015.748      3366.142      RMCF0603FT2K20      "Res Thick Film 0603 2.2K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                         R5         0603R_-_HD                                 TopLayer 270      
+3366.142      3464.568      RMCF0603FT1K50      "Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                         R4         0603R_-_HD                                 TopLayer 180      
+3940.945      2759.784      RNCF0603BTE10K0     "RES 10K OHM 0.1% 1/10W 0603"                                                                                          R3         0603R_-_HD                                 TopLayer 90       
+3622.048      3090.552      47R                 "RES SMD 47 OHM 1% 1/4W 0603"                                                                                          R2         0603R_-_HD                                 TopLayer 0        
+3366.141      3622.047      RMCF0603FT1K50      "Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                                         R1         0603R_-_HD                                 TopLayer 180      
+5309.056      2980.314      "MOSFET P-CH"       "Trans MOSFET P-CH 30V 3.5A Automotive 3-Pin SOT-23 T/R"                                                               Q1         SOT96P240X110-3N                           TopLayer 180      
+3622.047      2913.386      39nH                "Ind High Frequency Chip Multi-Layer 39nH 5% 100MHz 12Q-Factor Ceramic 300mA 0603 T/R"                                 L1         0603L_-_HD                                 TopLayer 0        
+3984.252      2524.803      67996-406HLF        "CONN HEADER VERT 6POS 2.54MM"                                                                                         BOOT       Amphenol_ICC_-_FCI_0_MFG                   TopLayer 0        
+5352.756      3444.882      USB3075-30-A        "Conn Micro USB Type B RCP 2Power/3Signal POS 0.65mm Solder RA SMD 5 Terminal 1 Port T/R"                              J6         Global_Connector_Technology_USB3075-30-A_0 TopLayer 90       
+4665.354      3690.945      GRPB052VWQS-RC      "Male, 10 C, SMT, .050" CC; 3.00mm Head/5.10mm Tail, Sf Mt; No GP, Nylon 9T, Brass, 105 C"                             SWD        Sullins_GRPB052VWQS-RC_MFG                 TopLayer 0        
+4280.708      3750.000      TS-104-T-AA         Connector                                                                                                              UART       HDRV4W46P0X254_1X4_1016X254X808P           TopLayer 0        
+3849.212      3750.000      TS-104-T-AA         Connector                                                                                                              GPIO       HDRV4W46P0X254_1X4_1016X254X808P           TopLayer 0        
+5029.528      2657.480      12V                 "CONN PWR JACK 2X5.5MM SOLDER"                                                                                         J1         PJ037AH                                    TopLayer 180      
+5077.362      3095.473      MPZ1608Y101BTA00    "Ind Chip Bead Multi-Layer 100Ohm 25% 100MHz Ferrite 2A 0603 Punched Paper T/R"                                        FB1        TDK_MPZ1608-0_8_IPC_A                      TopLayer 90       
+5175.788      3095.472      250mA               "Fuse Chip Very Fast Acting 0.25A 125V SMD Solder Pad 1206 Ceramic T/R CE/CSA/cULus"                                   F1         FUSC3115X66N                               TopLayer 270      
+3366.142      3385.826      LTST-C191KFKT       "Orange 0603 130° Water Clear 90 mcd 2 V SMT Rectangular Flat Top LED"                                                 LED2       Lite-On_0_MFG                              TopLayer 0        
+3366.142      3543.308      LTST-C191KFKT       "Orange 0603 130° Water Clear 90 mcd 2 V SMT Rectangular Flat Top LED"                                                 LED1       Lite-On_0_MFG                              TopLayer 0        
+3366.142      3700.788      LTST-C191KFKT       "Orange 0603 130° Water Clear 90 mcd 2 V SMT Rectangular Flat Top LED"                                                 3V3        Lite-On_0_MFG                              TopLayer 0        
+5285.434      3179.134      PMEG4005CEJX        "Rectifier Diode Schottky 40V 0.5A 1.8ns Automotive 2-Pin SOD-323F T/R"                                                D1         SODFL2512X80N                              TopLayer 90       
+4566.930      2677.166      100nF               "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             C14        0603C_-_HD                                 TopLayer 270      
+4409.450      2500.000      10uF                "AVX - 06036D106MAT2A - SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, AVX 0603 MLCC" C13        0603C_-_HD                                 TopLayer 0        
+3326.772      2992.126      27pF                "CAP MLCC, 27PF, 50V, C0G/NP0, 5%, 0603"                                                                               C12        0603C_-_HD                                 TopLayer 270      
+3326.772      3141.792      27pF                "CAP MLCC, 27PF, 50V, C0G/NP0, 5%, 0603"                                                                               C11        0603C_-_HD                                 TopLayer 90       
+3740.158      2637.796      10nF                "Capacitor Ceramic 0.01uF 10% 50V 2-Pin Surface Mount T/R"                                                             C10        0603C_-_HD                                 TopLayer 90       
+3681.102      2992.126      10nF                "Capacitor Ceramic 0.01uF 10% 50V 2-Pin Surface Mount T/R"                                                             C9         0603C_-_HD                                 TopLayer 90       
+3622.048      2992.126      1uF                 "CAP CER 1UF 16V X7R 0603"                                                                                             C8         0603C_-_HD                                 TopLayer 90       
+4192.914      3208.662      100nF               "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             C7         0603C_-_HD                                 TopLayer 90       
+4082.618      2818.898      100nF               "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             C6         0603C_-_HD                                 TopLayer 0        
+3838.582      3326.772      100nF               "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             C5         0603C_-_HD                                 TopLayer 180      
+3681.102      3208.662      100nF               "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             C4         0603C_-_HD                                 TopLayer 90       
+3622.048      3208.662      10uF                "AVX - 06036D106MAT2A - SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, AVX 0603 MLCC" C3         0603C_-_HD                                 TopLayer 90       
+4663.976      2859.252      4.7uF               "Cap Ceramic 4.7uF 10V X7S 10% SMD 0603 125°C Punched Paper T/R"                                                       C2         0603C_-_HD                                 TopLayer 180      
+4978.938      3134.842      4.7uF               "Cap Ceramic 4.7uF 10V X7S 10% SMD 0603 125°C Punched Paper T/R"                                                       C1         0603C_-_HD                                 TopLayer 90       

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: stm32dev.PcbDoc   5/01/2022  10:28:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer (Signal) to Bottom Layer (Signal)
+ASCII RoundHoles File : stm32dev-RoundHoles.TXT
+ASCII SlotHoles File : stm32dev-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             142       PTH        19.74inch (501.42mm)
+T2      18mil (0.45mm)                                            Slot              2         PTH        0.63inch (15.94mm)
+T3      26mil (0.65mm)                                            Round             8         PTH        0.73inch (18.58mm)
+T4      40mil (1.02mm)                                            Round             6         PTH        0.50inch (12.70mm)
+T5      124mil (3.16mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        5.51inch (140.00mm)
+T7      143mil (3.64mm)                                           Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              164
+
+Total Processing Time (hh:mm:ss) : 00:00:00

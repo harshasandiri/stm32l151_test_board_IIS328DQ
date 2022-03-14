@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:58:21 PM On 15/01/2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [STM32_Dev.PrjPcb]
+   Generated File[Bill of Materials-STM32_Dev.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:58:21 PM On 15/01/2022
