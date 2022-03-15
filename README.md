@@ -11,4 +11,4 @@
 ![pcb1](https://user-images.githubusercontent.com/93194810/158131153-837906cd-0ece-4a74-811f-77ff6764668a.jpeg)
 
 
-*-- Designed and developed by Harsha Sandirigama --*
+
